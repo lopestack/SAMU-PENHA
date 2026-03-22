@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@prisma/client": "^7.5.0",
+    "dotenv": "^17.3.1",
+    "mysql2": "^3.20.0"
+  },
+  "devDependencies": {
+    "@iconify-json/lucide": "^1.2.98",
+    "@prisma/config": "^7.5.0"
+  }
+}
